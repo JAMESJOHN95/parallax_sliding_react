@@ -1,0 +1,13 @@
+/* .div1{
+    background-image: url("https://www.kia.com/content/dam/kia2/in/en/images/360vr/sonet/sxw5k2g1uhh002/exterior/gb3/08-d.png");
+    background-size: cover;
+  } */
+    .Parallax1{
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      background-attachment: fixed;
+      background-position: 50%;
+      background-repeat: no-repeat;
+      
+    }
